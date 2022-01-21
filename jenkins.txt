@@ -1,2 +1,3 @@
 Creating the file for chekcing the jenkins cong
 SCM 
+maven configuation 
